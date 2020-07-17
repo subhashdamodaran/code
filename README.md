@@ -111,4 +111,5 @@ The theme contains a minimal test suite, to ensure a site with the theme would b
 =======
 # home
 technically speaking..
+one
 >>>>>>> 40b5d108790f7e00790ac2517cb63801430af306
